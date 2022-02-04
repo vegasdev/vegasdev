@@ -23,8 +23,7 @@ class aspect{
   }
 }
 ```
-
-[![Discord Adresim](https://lanyard-profile-readme.vercel.app/api/901094423033708576?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/901094423033708576)
+[![Discord Profilim](https://lanyard.cnrad.dev/api/901094423033708576)](https://discord.com/users/901094423033708576)
 
 Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz. 
 
