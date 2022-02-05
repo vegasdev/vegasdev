@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=vegasdev&color=blue"/>
 </div>
 
-Selam, ben Adem! 2019 Şubat'dan beri Discord botları ile uğraşıyorum.
+Selam, ben Adem! 2020 Şubat'dan beri Discord botları ile uğraşıyorum.
 Bu GitHub hesabım ile sizlere Discord Botları ile ilgili altyapılar sunacağım!
 
 ```js
