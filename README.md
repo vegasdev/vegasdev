@@ -24,6 +24,7 @@ class aspect{
 }
 ```
 [![Discord Profilim](https://lanyard.cnrad.dev/api/901094423033708576)](https://discord.com/users/901094423033708576)
+[![Discord Profilim](https://lanyard.cnrad.dev/api/937480692634386472)](https://discord.com/users/937480692634386472)
 
 Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz. 
 
