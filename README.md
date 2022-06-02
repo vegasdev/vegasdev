@@ -7,7 +7,7 @@ Selam, ben Adem! 2021 Şubat'dan beri Discord botları ile uğraşıyorum.
 Bu GitHub hesabım ile sizlere Discord Botları ile ilgili altyapılar sunacağım!
 
 ```js
-class aspect{
+class vegas{
   constructor(options) {
     this.name = "Adem",
     this.hometown = "Aydın",
@@ -23,7 +23,7 @@ class aspect{
   }
 }
 ```
-[![Discord Profilim](https://lanyard.cnrad.dev/api/937480692634386472)](https://discord.com/users/937480692634386472)
+[![Discord Profilim](https://lanyard.cnrad.dev/api/981920197113954355)](https://discord.com/users/981920197113954355)
 
 Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz. 
 
