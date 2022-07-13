@@ -13,8 +13,6 @@ class vegas{
     this.hometown = "Aydın",
     this.birthday = "04",
     this.birthmonth = "January",
-    this.birthyear = "2003",
-    this.age = "19",
     this.height = "1.82",
     this.weight = "70",
     this.type = "human",
